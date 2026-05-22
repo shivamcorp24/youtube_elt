@@ -13,3 +13,4 @@ logs/
 
 # python files
 fernet_key.py
+commands.txt
